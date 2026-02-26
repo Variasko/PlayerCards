@@ -15,8 +15,7 @@ Mbappe
 Физика(PHY) - 78
 
 ## Фото
-![Uploading image.png…]()
-
+<img width="231" height="320" alt="image" src="https://github.com/user-attachments/assets/dc26a5b9-5a5b-4189-ae7d-ebb5b1b5b644" />
 
 ## Рейтинг
 91

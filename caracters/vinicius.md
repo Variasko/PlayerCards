@@ -15,6 +15,7 @@ Vini Jr
 Физика(**PHY**) - 69
 
 ## Фото
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/bf32a591-023d-439a-ba25-975bca2a6451" />
 
 
 ## Рейтинг
